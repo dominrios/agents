@@ -1,6 +1,0 @@
-{
-  # VOLTTRON config files are JSON with support for python style comments.
-  "agentid" : "doubler1",
-  "listener_topic" : "devices/fake/simpleFloat", #Strings
-  "publish_topic" : "fake/doubled",
-}
