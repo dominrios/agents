@@ -1,0 +1,4 @@
+{
+    "listener_topic" : "meow/pants",
+    "publish_topic" : "blooper/dude"
+}

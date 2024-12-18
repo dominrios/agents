@@ -1,0 +1,5 @@
+{
+    "publish_topic" : "meow/pants",
+    "subscribe_topic": "blooper/dude",
+    "interval" : 13
+}
